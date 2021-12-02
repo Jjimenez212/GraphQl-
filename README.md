@@ -1,4 +1,6 @@
 # GraphQl-
+localhost:5500/graphql
+
 GraphQl with its mutations
 
 to start open terminal in corrsponding folder then run: <h3>node indexRestSoln.js</h3>
